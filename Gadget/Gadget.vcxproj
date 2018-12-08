@@ -151,10 +151,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Alloc.h" />
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Pages.h" />
+    <ClInclude Include="CPU.h" />
     <ClInclude Include="pch.h" />
+    <ClInclude Include="STLParadigm.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="CPU.cpp" />
     <ClCompile Include="Gadget.cpp" />
     <ClCompile Include="pch.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>

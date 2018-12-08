@@ -18,15 +18,24 @@
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="STLParadigm.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CPU.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Alloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Pages.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="Gadget.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="CPU.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
