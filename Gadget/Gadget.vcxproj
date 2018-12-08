@@ -151,9 +151,9 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Alloc.h" />
-    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Pages.h" />
+    <ClInclude Include="Alloc.h" />
     <ClInclude Include="CPU.h" />
+    <ClInclude Include="Pages.h" />
     <ClInclude Include="pch.h" />
     <ClInclude Include="STLParadigm.h" />
   </ItemGroup>

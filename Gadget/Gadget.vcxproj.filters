@@ -24,10 +24,10 @@
     <ClInclude Include="CPU.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Alloc.h">
+    <ClInclude Include="Alloc.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\..\..\Documents\Tencent Files\292236116\FileRecv\MobileFile\Pages.h">
+    <ClInclude Include="Pages.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
