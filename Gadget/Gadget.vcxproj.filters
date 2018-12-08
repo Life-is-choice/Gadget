@@ -39,4 +39,9 @@
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.md">
+      <Filter>头文件</Filter>
+    </None>
+  </ItemGroup>
 </Project>
