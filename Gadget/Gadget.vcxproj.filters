@@ -13,22 +13,28 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="头文件\HomeWork">
+      <UniqueIdentifier>{d1619482-ff87-4ccd-a79f-5d058b0a3acf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="头文件\Abstract">
+      <UniqueIdentifier>{769a74f0-c0cc-43cf-8c6b-3d0bf76b23c9}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="pch.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="STLParadigm.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="CPU.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
     <ClInclude Include="Alloc.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\HomeWork</Filter>
     </ClInclude>
     <ClInclude Include="Pages.h">
-      <Filter>头文件</Filter>
+      <Filter>头文件\HomeWork</Filter>
+    </ClInclude>
+    <ClInclude Include="CPU.h">
+      <Filter>头文件\Abstract</Filter>
+    </ClInclude>
+    <ClInclude Include="STL Format.h">
+      <Filter>头文件\Abstract</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

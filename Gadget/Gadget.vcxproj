@@ -155,7 +155,7 @@
     <ClInclude Include="CPU.h" />
     <ClInclude Include="Pages.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="STLParadigm.h" />
+    <ClInclude Include="STL Format.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Gadget.cpp" />
