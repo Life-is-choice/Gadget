@@ -16,7 +16,7 @@
     <Filter Include="头文件\HomeWork">
       <UniqueIdentifier>{d1619482-ff87-4ccd-a79f-5d058b0a3acf}</UniqueIdentifier>
     </Filter>
-    <Filter Include="头文件\Abstract">
+    <Filter Include="头文件\STL Quick Referrence">
       <UniqueIdentifier>{769a74f0-c0cc-43cf-8c6b-3d0bf76b23c9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
@@ -30,11 +30,17 @@
     <ClInclude Include="Pages.h">
       <Filter>头文件\HomeWork</Filter>
     </ClInclude>
-    <ClInclude Include="CPU.h">
-      <Filter>头文件\Abstract</Filter>
+    <ClInclude Include="STL Concurrency.h">
+      <Filter>头文件\STL Quick Referrence</Filter>
     </ClInclude>
-    <ClInclude Include="STL Format.h">
-      <Filter>头文件\Abstract</Filter>
+    <ClInclude Include="STL Container.h">
+      <Filter>头文件\STL Quick Referrence</Filter>
+    </ClInclude>
+    <ClInclude Include="STL Template.h">
+      <Filter>头文件\STL Quick Referrence</Filter>
+    </ClInclude>
+    <ClInclude Include="STL Algorithm.h">
+      <Filter>头文件\STL Quick Referrence</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

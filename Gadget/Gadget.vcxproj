@@ -152,10 +152,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="Alloc.h" />
-    <ClInclude Include="CPU.h" />
     <ClInclude Include="Pages.h" />
     <ClInclude Include="pch.h" />
-    <ClInclude Include="STL Format.h" />
+    <ClInclude Include="STL Algorithm.h" />
+    <ClInclude Include="STL Concurrency.h" />
+    <ClInclude Include="STL Container.h" />
+    <ClInclude Include="STL Template.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Gadget.cpp" />

@@ -1,5 +1,5 @@
 #pragma once
-//public
+//基类接口
 /*
 swap()
 max_size()
@@ -12,9 +12,9 @@ clear()
 begin()
 end()
 
-pCompare:函数指针 bool (*id)(args) 或者typeof,也就是decltype()
 */
 
+//以下是平衡排序树、哈希表的使用范式
 using namespace std;
 #include<string>
 #include <vector>
@@ -22,6 +22,7 @@ using namespace std;
 #include<unordered_set>
 #include<algorithm>
 
+//模板需要的类
 struct Obj {
 	string describe;
 	int value;
@@ -58,7 +59,7 @@ set<Obj, ObjCmp> sObj{ vObj.begin(),vObj.end()};
 //key为const,with O(1)
 unordered_set < Obj, ObjHash,ObjEq > hObj{ vObj.begin(),vObj.end() };
 
-void doIt() {
+void doContainer() {
 
 }
 
